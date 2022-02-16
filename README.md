@@ -1,4 +1,4 @@
-# 🏗 Scaffold-ETH - 🟣 Polygon NFT Example with nft.storage
+# 🏗 Scaffold-ETH - 🟣 Polygon NFT Example 
 
 > Build, mint, and send around your own ERC721 (NFT) on Mumbai (testnet) and then on Polygon/Matic mainnet!
 
